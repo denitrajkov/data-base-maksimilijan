@@ -87,6 +87,16 @@
           "alchocol"  : 12.5,
           "price" : 300
       
+      },
+      {
+          "id":"9",
+          "name":"Темајника 2",
+          "color": "Бело",
+          "image": "/winebottle.png",
+          "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit Corporis iste Dolorum inventore dicta nostrum libero doloribus assumenda, accusantium quis fugiat cum voluptatibus temporibus esse odio ipsum ad facilis perferendis nobis voluptate quam quaerat officia laborum est. Aperiam ut",
+          "vintage" : 2023,
+          "alchocol"  : 12.5,
+          "price" : 300
       }
   ],
 
