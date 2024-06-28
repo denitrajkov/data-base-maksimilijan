@@ -1,0 +1,259 @@
+{
+  "wines" :[
+      {
+          "id":"1",
+          "name":"Вранец",
+          "color": "Црвено",
+          "image": "/vranec_bariq.jpg",
+          "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit Corporis iste Dolorum inventore dicta nostrum libero doloribus assumenda, accusantium quis fugiat cum voluptatibus temporibus esse odio ipsum ad facilis perferendis nobis voluptate quam quaerat officia laborum est. Aperiam ut",
+          "vintage" : 2023,
+          "alchocol"  : 12.5,
+          "price" : 300
+      },
+      {
+          "id":"2",
+          "name":"Темајника",
+          "color": "Бело",
+          "image": "/winebottle.png",
+          "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit Corporis iste Dolorum inventore dicta nostrum libero doloribus assumenda, accusantium quis fugiat cum voluptatibus temporibus esse odio ipsum ad facilis perferendis nobis voluptate quam quaerat officia laborum est. Aperiam ut",
+          "vintage" : 2023,
+          "alchocol"  : 12.5,
+          "price" : 300
+      },
+      {
+          "id":"3",
+          "name":"Станушина",
+          "color": "Бело",
+          "image": "/malena.jpg",
+          "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit Corporis iste Dolorum inventore dicta nostrum libero doloribus assumenda, accusantium quis fugiat cum voluptatibus temporibus esse odio ipsum ad facilis perferendis nobis voluptate quam quaerat officia laborum est. Aperiam ut",
+          "vintage" : 2023,
+          "alchocol"  : 12.5,
+          "price" : 300
+      },
+      {
+          "id":"4",
+          "name":"Розе",
+          "color": "Бело",
+          "image": "/bella.jpg",
+          "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit Corporis iste Dolorum inventore dicta nostrum libero doloribus assumenda, accusantium quis fugiat cum voluptatibus temporibus esse odio ipsum ad facilis perferendis nobis voluptate quam quaerat officia laborum est. Aperiam ut",
+          "vintage" : 2023,
+          "alchocol"  : 12.5,
+          "price" : 250
+     
+      }
+      ,
+      {
+          "id":"5",
+          "name":"Смедеревка",
+          "color": "Бело",
+          "image": "/bella.jpg",
+          "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit Corporis iste Dolorum inventore dicta nostrum libero doloribus assumenda, accusantium quis fugiat cum voluptatibus temporibus esse odio ipsum ad facilis perferendis nobis voluptate quam quaerat officia laborum est. Aperiam ut",
+          "vintage" : 2023,
+          "alchocol"  : 12.5,
+          "price" : 300
+      
+      }
+      ,
+      {
+          "id":"6",
+          "name":"Каберне Совињон",
+          "color": "Бело",
+          "image": "/bella.jpg",
+          "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit Corporis iste Dolorum inventore dicta nostrum libero doloribus assumenda, accusantium quis fugiat cum voluptatibus temporibus esse odio ipsum ad facilis perferendis nobis voluptate quam quaerat officia laborum est. Aperiam ut",
+          "vintage" : 2023,
+          "alchocol"  : 12.5,
+          "price" : 300
+      
+      },
+      {
+          "id":"7",
+          "name":"Рајски Ризлинг",
+          "color": "Бело",
+          "image": "/bella.jpg",
+          "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit Corporis iste Dolorum inventore dicta nostrum libero doloribus assumenda, accusantium quis fugiat cum voluptatibus temporibus esse odio ipsum ad facilis perferendis nobis voluptate quam quaerat officia laborum est. Aperiam ut",
+          "vintage" : 2023,
+          "alchocol"  : 12.5,
+          "price" : 300
+      
+      }
+      ,
+      {
+          "id":"8",
+          "name":"Рајски Ризлинг",
+          "color": "Црвено",
+          "image": "/bella.jpg",
+          "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit Corporis iste Dolorum inventore dicta nostrum libero doloribus assumenda, accusantium quis fugiat cum voluptatibus temporibus esse odio ipsum ad facilis perferendis nobis voluptate quam quaerat officia laborum est. Aperiam ut",
+          "vintage" : 2023,
+          "alchocol"  : 12.5,
+          "price" : 300
+      
+      }
+  ],
+
+
+  "images" : [
+      {
+         "id":"78",
+          "image":"gallery1.jpg"
+      },
+      {
+         "id":"79",
+          "image":"gallery2.jpg"
+      },
+      {
+         "id":"80",
+          "image":"gallery3.jpg"
+      },
+      {
+         "id":"81",
+          "image":"gallery4.jpg"
+      },
+      {
+         "id":"82",
+          "image":"gallery5.jpg"
+      },
+      {
+         "id":"83",
+          "image":"gallery6.jpg"
+      },
+      {
+         "id":"84",
+          "image":"gallery7.jpg"
+      },
+      {
+         "id":"85",
+          "image":"gallery8.jpg"
+      },
+      {
+         "id":"86",
+          "image":"gallery9.jpg"
+      },
+      {
+         "id":"87",
+          "image":"gallery10.jpg"
+      }
+  ],
+
+  "smestuvanje": [
+  {
+    "id":"333",
+    "name": "Соба Изабела",
+    "description": "Соба Изабела располага со најмодерни удобности. Уживајте во пространа светла соба со комфорен кревет, приватна бања, бесплатен Wi-Fi, клима уред и телевизор. Идеална за деловни патници и туристи. На одлична локација, во село Пепелиште, Неготино. Уживајте во престојот",
+    "location": "с. Пепелиште, Неготино",
+    "price": 30,
+    "mainImage": "/izabela.jpg",
+    "images": [
+      "room1.jpg",
+      "room2.jpg",
+      "room3.jpg",
+      "room4.jpg",
+      "room5.jpg",
+      "room6.jpg"
+ 
+    ]
+    
+  },
+  {
+    "id": "222",
+    "name": "Соба Максимилијан",
+    "description": "Соба Максимилијан располага со најмодерни удобности. Уживајте во пространа светла соба со комфорен кревет, приватна бања, бесплатен Wi-Fi, клима уред и телевизор. Идеална за деловни патници и туристи. На одлична локација, во село Пепелиште, Неготино. Уживајте во престојот",
+    "location": "с. Пепелиште, Неготино",
+    "price": 30,
+   "mainImage": "/maksimilijan.jpg",
+    "images": [
+      "room1.jpg",
+      "room2.jpg",
+      "room3.jpg",
+      "room4.jpg",
+      "room5.jpg",
+      "room6.jpg"
+    ]
+  },
+  {
+    "id": "444",
+    "name": "Соба Пепелиште",
+    "description": "Соба Пепелиште располага со најмодерни удобности. Уживајте во пространа светла соба со комфорен кревет, приватна бања, бесплатен Wi-Fi, клима уред и телевизор. Идеална за деловни патници и туристи. На одлична локација, во село Пепелиште, Неготино. Уживајте во престојот",
+    "location": "с. Пепелиште, Неготино",
+    "price": 30,
+   "mainImage": "/room3.jpg",
+    "images": [
+      "room1.jpg",
+      "room2.jpg",
+      "room3.jpg",
+      "room4.jpg",
+      "room5.jpg",
+      "room6.jpg"
+    ]
+  }
+  
+
+],
+"awards" : [
+      {
+         "id":"awards",
+          "image":"awards.jpg"
+      },
+      {
+         "id":"biwc",
+          "image":"biwc.jpg"
+      },
+      {
+         "id":"blagodarnica",
+          "image":"blagodarnica.jpg"
+      },
+      {
+         "id":"masoowinnermaker",
+          "image":"masoowinnermaker.jpg"
+      },
+      {
+         "id":"medal",
+          "image":"medal.jpg"
+      },
+      {
+         "id":"mladovino2021",
+          "image":"mladovino2021.jpg"
+      },
+      {
+         "id":"mladovino2022",
+          "image":"mladovino2022.jpg"
+      },
+      {
+         "id":"mladovino2022frank",
+          "image":"mladovino2022frank.jpg"
+      },
+      {
+         "id":"mladovino2022rizling",
+          "image":"mladovino2022rizling.jpg"
+      },
+      {
+         "id":"negotino2021",
+          "image":"negotino2021.jpg"
+      }
+      ,
+      {
+         "id":"popovo",
+          "image":"popovo.jpg"
+      }
+      ,
+      {
+         "id":"rotary",
+          "image":"rotary.jpg"
+      },
+      {
+         "id":"sertifikatnegotino",
+          "image":"sertifikatnegotino.jpg"
+      },
+      {
+         "id":"silvermedal",
+          "image":"silvermedal.jpg"
+      },
+      {
+         "id":"trofej",
+          "image":"trofej.jpg"
+      },
+      {
+         "id":"zlatn",
+          "image":"zlatn.jpg"
+      }
+  ]
+}
